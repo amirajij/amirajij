@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Amir Irshad</h1>
-<h3 align="center">Bachelor's degree in Management Information Systems (1st Year) | Universidade Lusófona de Lisboa</h3>
+<h1 align="center">Hey! I'm Amir, good to see you around here!</h1>
+<h3 align="center">Currently learning the intersection of technology and business, shaping the future of enterprise success!💻🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirajij&label=Profile%20views&color=0e75b6&style=flat" alt="amirajij" /> </p>
 
