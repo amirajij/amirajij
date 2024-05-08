@@ -5,7 +5,7 @@
 
 💡 Fascinated by the transformative power of technology, I am a zealous advocate for innovation and entrepreneurship. My journey is fueled by a relentless pursuit of knowledge and a commitment to shaping the future of tech.
 
-🎓 Currently immersed in the world of Management Information Systems, I am honing my skills to bridge the gap between complex IT solutions and strategic business management.
+🎓 Currently immersed in the world of Information Technology Management, I am honing my skills to bridge the gap between complex IT solutions and strategic business management.
 
 🌱 With a keen interest in the latest tech trends, I am expanding my expertise in Artificial Intelligence, Systems Design, and Cloud Architecture, ensuring that I stay ahead in this fast-paced domain.
 
