@@ -14,10 +14,8 @@
 💬 I am always open to connecting with like-minded individuals and organizations to share insights, tackle challenges, and unlock new opportunities in the realm of technology and business
 
 - 📫 How to reach me **amir.ajij786@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/amirajij](www.linkedin.com/in/amirajij)
-
-- 🌐 Check out my website [https://amirajij.github.io/](https://amirajij.github.io/)
+  
+- 🌐 Know more about me! Check out my website [https://amirajij.github.io/](https://amirajij.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
