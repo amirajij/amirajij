@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amir.ajij786@gmail.com**
   
-- 🌐 Know more about me! Check out my website [https://amirajij.github.io/](https://amirajij.github.io/)
+- 🌐 Know more about me! Check out my website [https://amirajij.github.io](https://amirajij.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
