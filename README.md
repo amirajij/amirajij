@@ -11,7 +11,7 @@
 
 ✍️ Beyond academia, I engage with the vibrant tech community through internships, projects, and discussions that spark innovation and foster collaborative success.
 
-💬 I am always open to connecting with like-minded individuals and organizations to share insights, tackle challenges, and unlock new opportunities in the realm of technology and business
+💬 I am always open to connecting with like-minded individuals and organizations to share insights, tackle challenges, and unlock new opportunities in the realm of technology and business.
 
 - 📫 How to reach me **amir.ajij786@gmail.com**
   
