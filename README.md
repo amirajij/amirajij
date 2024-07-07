@@ -3,20 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirajij&label=Profile%20views&color=0e75b6&style=flat" alt="amirajij" /> </p>
 
-💡 Fascinated by the transformative power of technology, I am a zealous advocate for innovation and entrepreneurship. My journey is fueled by a relentless pursuit of knowledge and a commitment to shaping the future of tech.
 
-🎓 Currently immersed in the world of Information Technology Management, I am honing my skills to bridge the gap between complex IT solutions and strategic business management.
+---
 
-🌱 With a keen interest in the latest tech trends, I am expanding my expertise in Artificial Intelligence, Systems Design, and Cloud Architecture, ensuring that I stay ahead in this fast-paced domain.
+💡 I’m passionate about how technology can change the world, and I love driving innovation and entrepreneurship. My journey is all about constantly learning and working towards a better future in tech.
 
-✍️ Beyond academia, I engage with the vibrant tech community through internships, projects, and discussions that spark innovation and foster collaborative success.
+🎓 Right now, I’m diving deep into Information Technology Management, learning how to connect complex IT solutions with smart business strategies.
 
-💬 I am always open to connecting with like-minded individuals and organizations to share insights, tackle challenges, and unlock new opportunities in the realm of technology and business.
+🌱 I’m always exploring the latest tech trends, especially in Artificial Intelligence, Systems Design, and Cloud Architecture, to make sure I stay on top of this fast-moving field.
+
+✍️ Outside of my studies, I’m active in the tech community, taking on internships, projects, and engaging in discussions that inspire new ideas and successful collaborations.
+
+💬 I’m always eager to meet and connect with others who share my interests. Let’s share insights, tackle challenges together, and explore new opportunities in technology and business.
 
 - 📫 How to reach me **amir.ajij786@gmail.com**
   
 - 🌐 Know more about me! Check out my website [https://amirajij.github.io](https://amirajij.github.io)
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/amirajij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amirajij" height="30" width="40" /></a>
