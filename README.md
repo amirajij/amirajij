@@ -1,5 +1,5 @@
 # Amir Ajij
-### Technical Consultant | IT Management & Information Systems
+### Technical Consultant | IT Management & Information Systems  
 **Digital Transformation | AI Implementation | Data-Driven Strategy**
 
 <p align="left">
@@ -10,39 +10,39 @@
 ---
 
 ## 🧬 Professional Profile
-Consultor Técnico com foco em **Transformação Digital**, unindo Engenharia de Software e Gestão Estratégica. Atualmente a desenvolver a tese na **CGI**, focado na criação de motores de IA para otimização de projetos AMS (Application Managed Services).
+Technical Consultant focused on **Digital Transformation**, combining **Software Engineering expertise with strategic management capabilities**. Currently developing a thesis at **CGI**, focused on building **AI-driven engines to optimize AMS (Application Managed Services) project operations**.
 
-* **Current Role:** Business & Technology Consultant Intern @ CGI.
-* **Expertise:** Análise de requisitos, automação de processos e Business Intelligence.
-* **Academic:** Finalista em Sistemas e Gestão de Informação (Média: 17/20).
+- **Current Role:** Business & Technology Consultant Intern @ CGI  
+- **Expertise:** Requirements analysis, process automation, and Business Intelligence  
+- **Academic Background:** Final-year student in Information Systems & Management (GPA: 17/20)
 
 ---
 
 ## 🛠 Tech Stack & Core Competencies
 
 ### 💻 Development & Engineering
-* **Programming:** Java, Python (Django), C, Kotlin, SQL.
-* **Systems:** OutSystems (Low-Code), REST APIs, HTML/CSS.
-* **Methodologies:** Agile (Scrum), BPMN, Requirements Engineering.
+- **Programming:** Java, Python (Django), C, Kotlin, SQL  
+- **Systems:** OutSystems (Low-Code), REST APIs, HTML/CSS  
+- **Methodologies:** Agile (Scrum), BPMN, Requirements Engineering  
 
 ### 📊 Data & Business Strategy
-* **Analytics:** Power BI, Pentaho, Data Mining (CRISP-DM).
-* **Databases:** MySQL, Oracle.
-* **Management:** KPIs de Negócio, Gestão Financeira, Decision Support Systems.
+- **Analytics:** Power BI, Pentaho, Data Mining (CRISP-DM)  
+- **Databases:** MySQL, Oracle  
+- **Management:** Business KPIs, Financial Management, Decision Support Systems  
 
 ---
 
 ## 🚀 Key Projects
-* **AI for Project Management (CGI):** Implementação de modelos de Machine Learning para alocação de recursos e eficiência operacional.
-* **Full-Stack Portfolio (19/20):** Web App robusta com Django (MVT) e APIs integradas.
-* **Corporate SQL System (18/20):** Arquitetura de base de dados normalizada para fluxos documentais complexos.
-* **Internal Digital Solutions (17/20):** Apps Low-Code para automação de processos de RH e Finanças.
+- **AI for Project Management (CGI):** Implementation of Machine Learning models to optimize resource allocation and improve operational efficiency.  
+- **Full-Stack Portfolio (19/20):** Robust web application built with Django (MVT architecture) and integrated APIs.  
+- **Corporate SQL System (18/20):** Design of a normalized database architecture for complex document workflows.  
+- **Internal Digital Solutions (17/20):** Development of low-code applications to automate HR and Finance processes.
 
 ---
 
 ## 📈 Impact & Leadership
-* **Coordenador de Mentoria:** Liderança estratégica do programa de apoio académico na Universidade Lusófona.
-* **Consultoria em Digital Transformation:** Desenho de fluxos digitais e procedimentos operacionais em equipas multidisciplinares.
+- **Mentorship Program Coordinator:** Strategic leadership of an academic mentoring program at Universidade Lusófona.  
+- **Digital Transformation Consulting:** Designed digital workflows and operational procedures within multidisciplinary teams.
 
 ---
 
@@ -60,6 +60,7 @@ Consultor Técnico com foco em **Transformação Digital**, unindo Engenharia de
 </p>
 
 ---
+
 <p align="center">
-  <sub>Licenciatura em Sistemas e Gestão de Informação (2023-2026) • Universidade Lusófona</sub>
+  <sub>BSc in Information Systems & Management (2023-2026) • Universidade Lusófona</sub>
 </p>
